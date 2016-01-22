@@ -1,0 +1,33 @@
+{ "deployment_label": "NANOOS_Jun15",
+  "type": "FeatureCollection",
+  "features": [
+      { "type": "Feature",
+        "id": "s002",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [-127.11, 46.73], [-126.01, 47.00], [-126.54, 47.30], [-125.11, 47.51]
+            ]
+          },
+        "properties": {
+          "id": "s002",
+          "datetime_start": "2016-01-04T06:30Z",
+          "datetime_end": null
+          }
+        },
+      { "type": "Feature",
+        "id": "s001",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [-124.53, 47.82], [-124.82, 47.77], [-125.44, 46.91], [-127.11, 46.73]
+            ]
+          },
+        "properties": {
+          "id": "s001",
+          "datetime_start": "2015-06-16T06:30Z",
+          "datetime_end": "2015-07-09T10:10Z"
+          }
+        }
+       ]
+     }
